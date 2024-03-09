@@ -1,0 +1,6 @@
+//for admin
+Username = "admin"
+Password = "admin123"
+
+                         
+                    

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.for-header{
+    background: #D8CFD0;
+    border-radius: 20px;
+}
+h2{
+    color: #fff;
+    -webkit-text-stroke: 1px black;
+}
+.status{
+    text-decoration: none;
+}
+.btn:hover .status{
+    color: #fff;
+
+}
+.status-table{
+    overflow-x: auto;
+}
